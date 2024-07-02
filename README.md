@@ -1,7 +1,6 @@
 
 # Netflix Frontend Clone
 
-A brief description of what this project does and who it's for
 
 
 ![App Screenshot](https://github.com/KanishkKumarMeena/Netflix-Clone/blob/main/ScreenShots/1.png?raw=true)
